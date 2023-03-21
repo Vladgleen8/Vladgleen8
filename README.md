@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Leetcode Stats](https://leetcode.com/user9575nb/)
+![Leetcode Stats](https://leetcard.jacoblin.cool/user9575nb)
